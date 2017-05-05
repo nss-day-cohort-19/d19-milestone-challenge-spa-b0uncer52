@@ -1,0 +1,39 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+    	"make": "Hyundai",
+    	"model": "Elantra",
+    	"year": "2002",
+    	"price": "2500",
+    	"description": "Excellent condition, only 60k miles. Standard transmission, power everything, and great gas mileage"
+    },
+    {
+    	"make": "Cadillac",
+    	"model": "Eldorado",
+    	"year": "1996",
+    	"price": "2700",
+    	"description": "Beautiful pearl white exterior, white leather inside, and tinted windows.  Powerful V8 engine and sexy look.  Small damage to driver's side door."
+    },
+    {
+    	"make": "Toyota",
+    	"model": "Avalon",
+    	"year": "1999",
+    	"price": "2400",
+    	"description": "This car sucks. You can't tell, but it has been in an accident and it will slowly fall apart on you."
+    },
+    {
+    	"make": "Chevrolet",
+    	"model": "Corsica",
+    	"year": "1996",
+    	"price": "1500",
+    	"description": "The perfect first car.  Durable, dependable, and easy on the pocket.  This will get you from A to B, and even has a fun e-brake for making donuts in the snow.  Just be careful."
+    }
+  ]
+}
