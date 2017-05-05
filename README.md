@@ -1,3 +1,7 @@
+# Install Dependencies based on lib/package.json, bootstrap & jquery
+
+
+
 # Single Page Applications Milestone Challenge
 
 ## Setup
