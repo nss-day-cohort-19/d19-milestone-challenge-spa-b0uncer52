@@ -1,0 +1,24 @@
+{
+  "name": "car-lot",
+  "version": "1.0.0",
+  "description": "display car cards",
+  "main": "index.html",
+  "gitrepository": "https://github.com/nss-day-cohort-19/d19-milestone-challenge-spa-b0uncer52.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Smith",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "jquery": "^3.2.1",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1",
+    "matchdep": "^1.0.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
